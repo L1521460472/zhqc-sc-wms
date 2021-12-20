@@ -1,0 +1,45 @@
+// Please add the language resource
+const invMoveReport = {
+  mainUnit: 'MainUnit',
+  moveLotOrderNo: 'MoveLotOrderNo',
+  moveQty: 'MoveQty',
+  toZoneCode: 'ToZoneCode',
+  planQty: 'PlanQty',
+  productionDate: 'ProductionDate',
+  remark: 'Remark',
+  spec: 'Spec',
+  breedNum: 'BreedNum',
+  toLotCode: 'ToLotCode',
+  invalidDate: 'InvalidDate',
+  moveTime: 'MoveTime',
+  moveLotOrderStatus: 'MoveLotOrderStatus',
+  movePkg: 'MovePkg',
+  approvalNumber: 'ApprovalNumber',
+  skuName: 'SkuName',
+  supplierName: 'SupplierName',
+  barcode: 'Barcode',
+  planMovePkg: 'PlanMovePkg',
+  creator: 'Creator',
+  ownerName: 'OwnerName',
+  batchNo: 'BatchNo',
+  fmLotCode: 'FmLotCode',
+  createTime: 'CreateTime',
+  drugForm: 'DrugForm',
+  productionBatch: 'ProductionBatch',
+  mfg: 'Mfg',
+  originCountry: 'OriginCountry',
+  fmZoneCode: 'FmZoneCode',
+  planMoveQty: 'PlanMoveQty',
+  moveUserNo: 'MoveUserNo',
+  drugFormSpec: 'DrugFormSpec',
+  instoreDate: 'InstoreDate',
+  skuCode: 'SkuCode',
+
+  ownerId: 'OwnerName',
+  moveTimeFrom: 'moveTime From',
+  moveTimeTo: 'moveTime To',
+
+  msg: {
+  }
+}
+export default invMoveReport

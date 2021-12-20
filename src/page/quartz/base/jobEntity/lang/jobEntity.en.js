@@ -1,0 +1,52 @@
+// Please add the language resource
+const jobEntity = {
+  jobType: 'JobType',
+  isEnable: 'IsEnable',
+  freqType: 'FreqType',
+  description: 'Description',
+  remark: 'Remark',
+  onceTime: 'OnceTime',
+  execInterval: 'ExecInterval',
+  updater: 'Updater',
+  parameter: 'Parameter',
+  cycleStartTime: 'CycleStartTime',
+  companyCode: 'CompanyCode',
+  id: 'Id',
+  cron: 'Cron',
+  creator: 'Creator',
+  createTime: 'CreateTime',
+  jobGroup: 'JobGroup',
+  endTime: 'EndTime',
+  cycleEndTime: 'CycleEndTime',
+  updaterName: 'UpdaterName',
+  startTime: 'StartTime',
+  whId: 'WhId',
+  jobName: 'JobName',
+  updaterTime: 'UpdaterTime',
+  creatorName: 'CreatorName',
+  jobCategory: 'JobCategory',
+  operation: 'Operation',
+  jobExecLog: {
+    execEndTime: 'execEndTime',
+    execResult: 'execResult',
+    execStartTime: 'execStartTime',
+    failMsg: 'failMsg',
+    remark: 'remark'
+  },
+  msg: {
+    cron: 'Please input the Cron',
+    jobType: 'Please input the JobType',
+    jobGroup: 'Please input the JobGroup',
+    isEnable: 'Please input the IsEnable',
+    freqType: 'Please input the FreqType',
+    description: 'Please input the Description',
+    remark: 'Please input the Remark',
+    whId: 'Please input the WhId',
+    jobName: 'Please input the JobName',
+    parameter: 'Please input the Parameter',
+    companyCode: 'Please input the CompanyCode',
+    id: 'Please input the Id',
+    jobCategory: 'Please input the JobCategory'
+  }
+}
+export default jobEntity

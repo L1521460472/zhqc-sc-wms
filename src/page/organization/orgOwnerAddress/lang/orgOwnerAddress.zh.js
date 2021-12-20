@@ -1,0 +1,38 @@
+const orgOwnerAddress = {
+  modelName: '货主地址',
+  id: 'id',
+  ownerCode: '货主编码',
+  code: '地址系统编码',
+  ownerAddrCode: '地址货主编码',
+  addrType: '地址类型',
+  name: '地址名称',
+  detail: '地址详情',
+  contact: '联系人',
+  tel: '联系方式',
+  telBak: '备用联系方式',
+  isDefault: '默认地址',
+  description: '备注',
+  createTime: '创建时间',
+  createOwner: '创建人',
+  updateTime: '修改时间',
+  updateOwner: '修改人',
+  msg: {
+    id: '请输入id',
+    ownerCode: '请输入货主编码',
+    code: '请输入地址系统编码',
+    ownerAddrCode: '请输入地址货主编码',
+    addrType: '请输入地址类型',
+    name: '请输入地址名称',
+    detail: '请输入地址详情',
+    contact: '请输入联系人',
+    tel: '请输入联系方式',
+    telBak: '请输入备用联系方式',
+    isDefault: '请输入默认地址',
+    description: '请输入备注',
+    createTime: '请输入创建时间',
+    createOwner: '请输入创建人',
+    updateTime: '请输入修改时间',
+    updateOwner: '请输入修改人'
+  }
+}
+export default orgOwnerAddress

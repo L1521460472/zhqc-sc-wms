@@ -1,0 +1,48 @@
+// 请自行添加语言资源
+const obReviewBoxReport = {
+  mainUnit: '单位',
+  reviewPersonTwo: '第二复核人',
+  partnerName: '承运商',
+  checkPlatformName: '复核台',
+  productionDate: '生产日期',
+  reviewedQty: '复核数量',
+  soNo: 'SO单号',
+  spec: '规格型号',
+  updateTime: '第二复核时间',
+  invalidDate: '失效日期#',
+  soQty: '订单数量',
+  approvalNumber: '批准文号',
+  isCrossDocking: '越库标识',
+  storeName: '店铺名称',
+  rowNo: '行号',
+  skuName: '产品名称',
+  supplierName: '供应商',
+  barcode: '产品条码',
+  ownerName: '货主名称',
+  batchNo: '批号',
+  createTime: '第一复核时间',
+  transOrderNo: '运单号',
+  soStatus: 'SO状态',
+  reviewPersonOne: '第一复核人',
+  drugForm: '剂型',
+  productionBatch: '生产批号',
+  mfg: '生产企业',
+  originCountry: '产地',
+  drugFormSpec: '包装规格',
+  soType: 'SO类型',
+  boxNo: '箱号',
+  waitReviewQty: '待复核数量',
+  customerName: '客户名称',
+  instoreDate: '入库日期',
+  skuCode: '产品编码',
+
+  ownerId: '货主名称',
+  customerId: '客户名称',
+  partnerId: '承运商',
+  supplierId: '供应商',
+  mfgId: '生产企业',
+
+  msg: {
+  }
+}
+export default obReviewBoxReport

@@ -1,0 +1,40 @@
+// Please add the language resource
+const apiLog = {
+  requestStatus: 'RequestStatus',
+  requestType: 'RequestType',
+  extendThree: 'ExtendThree',
+  remark: 'Remark',
+  extendFive: 'ExtendFive',
+  extendSeven: 'ExtendSeven',
+  responseMsg: 'ResponseMsg',
+  extendOne: 'ExtendOne',
+  updater: 'Updater',
+  optimistic: 'Optimistic',
+  updateTime: 'UpdateTime',
+  extendFour: 'ExtendFour',
+  companyCode: 'CompanyCode',
+  id: 'Id',
+  creator: 'Creator',
+  createTime: 'CreateTime',
+  extendTwo: 'ExtendTwo',
+  requestUrl: 'RequestUrl',
+  requestJson: 'RequestJson',
+  extendSix: 'ExtendSix',
+  whId: 'WhId',
+  extendEight: 'ExtendEight',
+  extendTen: 'ExtendTen',
+  extendNine: 'ExtendNine',
+  requestCode: 'RequestCode',
+  msg: {
+    requestStatus: 'Please input the RequestStatus',
+    requestType: 'Please input the RequestType',
+    requestUrl: 'Please input the RequestUrl',
+    responseMsg: 'Please input the ResponseMsg',
+    requestJson: 'Please input the RequestJson',
+    whId: 'Please input the WhId',
+    companyCode: 'Please input the CompanyCode',
+    id: 'Please input the Id',
+    requestCode: 'Please input the RequestCode'
+  }
+}
+export default apiLog

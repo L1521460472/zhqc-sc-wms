@@ -1,0 +1,38 @@
+const payOut = {
+  sujectType: '科目类别',
+  billSuject: '计费科目',
+  payOutCode: '出账策略编码',
+  payOutName: '出账策略名称',
+  payOutDataRource: '出账数据源',
+  addDimension: '添加维度',
+  status: '启用状态',
+  payOutType: '出账方式',
+  payOutPeriod: '出账周期',
+  payOutTime: '出账时间',
+  valueRules: '取值规则',
+  remark: '备注',
+  payOutInfo: '出账策略信息',
+  billTemplate: '账单模板',
+  tips: '提示',
+  enable: '启用',
+  disenable: '停用',
+  settlementUnit: '结算单位',
+  owner: '货主',
+  supplier: '供应商',
+  storehouse: '仓库',
+  carrier: '承运商',
+  customer: '客户',
+  msg: {
+    sujectType: '请选择科目类别',
+    billSuject: '请选择计费科目',
+    payOutCode: '请输入出账策略编码',
+    payOutName: '请输入出账策略名称',
+    payOutType: '请选择出账方式',
+    payOutPeriod: '请选择出账周期',
+    payOutTime: '请选择出账时间',
+    valueRules: '请选择账单模板',
+    enable: '确认启用？',
+    disenable: '确认停用？'
+  }
+}
+export default payOut

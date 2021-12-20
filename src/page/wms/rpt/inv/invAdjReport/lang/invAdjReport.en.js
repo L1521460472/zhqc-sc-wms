@@ -1,0 +1,46 @@
+// Please add the language resource
+const invAdjReport = {
+  mainUnit: 'MainUnit',
+  adjStatus: 'AdjStatus',
+  productionDate: 'ProductionDate',
+  spec: 'Spec',
+  zoneCode: 'ZoneCode',
+  auditTime: 'AuditTime',
+  invalidDate: 'InvalidDate',
+  approveNo: 'ApproveNo',
+  adjPkg: 'AdjPkg',
+  skuName: 'SkuName',
+  supplierName: 'SupplierName',
+  adjReason: 'AdjReason',
+  barcode: 'Barcode',
+  adjNo: 'AdjNo',
+  creator: 'Creator',
+  ownerName: 'OwnerName',
+  batchNo: 'BatchNo',
+  createTime: 'CreateTime',
+  lineNum: 'LineNum',
+  auditor: 'Auditor',
+  sourceType: 'SourceType',
+  origNo: 'OrigNo',
+  drugForm: 'DrugForm',
+  productionBatch: 'ProductionBatch',
+  mfg: 'Mfg',
+  originCountry: 'OriginCountry',
+  lotCode: 'LotCode',
+  drugFormSpec: 'DrugFormSpec',
+  instoreDate: 'InstoreDate',
+  skuCode: 'SkuCode',
+  adjQty: 'AdjQty',
+
+  zoneId: 'ZoneCode',
+  lotId: 'LotCode',
+  ownerId: 'OwnerName',
+  createTimeFrom: 'createTime From',
+  createTimeTo: 'To',
+  auditTimeFrom: 'auditTime From',
+  auditTimeTo: 'To',
+
+  msg: {
+  }
+}
+export default invAdjReport

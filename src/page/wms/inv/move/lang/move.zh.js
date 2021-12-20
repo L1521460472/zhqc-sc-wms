@@ -1,0 +1,91 @@
+// 请自行添加语言资源
+const move = {
+  moveLotOrderNo: '移位单号',
+  fmZoneId: '来源库区',
+  fmLotCode: '来源库位',
+  toZoneId: '目标库区',
+  toLotCode: '目标库位',
+  ownerId: '货主',
+  origin: '来源',
+  remark: '备注',
+  canMoveQty: '可移动数量',
+  updaterName: '更新人名称',
+  moveLotOrderStatus: '状态',
+  planMoveQty: '计划移动数量',
+  creatorName: '创建人',
+  createTime: '创建时间',
+  varietyNum: '品种数',
+  moveTimeFrom: '移位时间From',
+  moveTimeTo: 'To',
+
+  dt: {
+    lotCode: '库位',
+    canMoveQty: '可移数量',
+    planMoveQty: '计划移动数量',
+    actualMoveQty: '实际移动数量',
+    moveTime: '移位时间',
+
+    skuCode: '产品编码',
+    barcode: '产品条码',
+    skuName: '产品名称',
+    tradeName: '商品名',
+    spec: '规格型号',
+    mainUnit: '单位',
+    perQty: '包装',
+    drugForm: '剂型',
+    mfgName: '生产企业',
+    originCountry: '产地',
+    approvalNumber: '批准文号',
+    brandName: '品牌',
+    tempControlName: '温控要求',
+    validityDay: '有效期',
+    batchNo: '批次号',
+    productionBatch: '生产批号',
+    productionDate: '生产日期',
+    instoreDate: '入库日期',
+    invalidDate: '有效期至',
+    sterileNo: '灭菌批号',
+    sterileInvaliDate: '灭菌日期'
+
+  },
+
+  invPro: {
+    skuId: '产品',
+    zoneName: '库区',
+    lotCode: '库位',
+    canMoveQty: '可移数量',
+    fmLotCode: '来源库位',
+    toLotCode: '目标库位',
+
+    skuCode: '产品编码',
+    barcode: '产品条码',
+    skuName: '产品名称',
+    tradeName: '商品名',
+    spec: '规格型号',
+    mainUnit: '单位',
+    perQty: '包装',
+    drugForm: '剂型',
+    mfgName: '生产企业',
+    originCountry: '产地',
+    approvalNumber: '批准文号',
+    brandName: '品牌',
+    tempControlName: '温控要求',
+    validityDay: '有效期',
+    batchNo: '批次号',
+    productionBatch: '生产批号',
+    productionDate: '生产日期',
+    instoreDate: '入库日期',
+    invalidDate: '有效期至',
+    sterileNo: '灭菌批号',
+    sterileInvaliDate: '灭菌日期'
+  },
+
+  msg: {
+    ownerId: '请选择货主',
+    fmZoneId: '请选择来源库区',
+    fmLotId: '请选择来源库位',
+    toZoneId: '请选择目标库区',
+    toLotId: '请选择目标库位'
+  }
+}
+export default move

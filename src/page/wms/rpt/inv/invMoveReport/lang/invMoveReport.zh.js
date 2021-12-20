@@ -1,0 +1,45 @@
+// 请自行添加语言资源
+const invMoveReport = {
+  mainUnit: '单位',
+  moveLotOrderNo: '移位单号',
+  moveQty: '实际移动数量',
+  toZoneCode: '目标库区',
+  planQty: '计划数量',
+  productionDate: '生产日期',
+  remark: '备注',
+  spec: '规格型号',
+  breedNum: '计划品种数',
+  toLotCode: '目标库位',
+  invalidDate: '失效日期',
+  moveTime: '移库时间',
+  moveLotOrderStatus: '状态',
+  movePkg: '实际移动件数',
+  approvalNumber: '批准文号',
+  skuName: '产品名称',
+  supplierName: '供应商',
+  barcode: '产品条码',
+  planMovePkg: '计划移动件数',
+  creator: '创建人',
+  ownerName: '货主名称',
+  batchNo: '批次号',
+  fmLotCode: '来源库位',
+  createTime: '创建时间',
+  drugForm: '剂型',
+  productionBatch: '生产批号',
+  mfg: '生产企业',
+  originCountry: '产地',
+  fmZoneCode: '来源库区',
+  planMoveQty: '计划移动数量',
+  moveUserNo: '操作人',
+  drugFormSpec: '包装规格',
+  instoreDate: '入库日期',
+  skuCode: '产品编码',
+
+  ownerId: '货主名称',
+  moveTimeFrom: '移库时间From',
+  moveTimeTo: 'To',
+
+  msg: {
+  }
+}
+export default invMoveReport

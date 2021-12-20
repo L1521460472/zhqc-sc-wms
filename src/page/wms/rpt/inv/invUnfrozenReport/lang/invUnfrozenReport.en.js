@@ -1,0 +1,46 @@
+// Please add the language resource
+const invUnfrozenReport = {
+  mainUnit: 'MainUnit',
+  productionDate: 'ProductionDate',
+  unfrozenReason: 'UnfrozenReason',
+  spec: 'Spec',
+  zoneCode: 'ZoneCode',
+  auditTime: 'AuditTime',
+  unfrozenQty: 'UnfrozenQty',
+  invalidDate: 'InvalidDate',
+  approveNo: 'ApproveNo',
+  skuName: 'SkuName',
+  supplierName: 'SupplierName',
+  barcode: 'Barcode',
+  creator: 'Creator',
+  unfrozenNo: 'UnfrozenNo',
+  ownerName: 'OwnerName',
+  batchNo: 'BatchNo',
+  createTime: 'CreateTime',
+  lineNum: 'LineNum',
+  unfrozenPkg: 'UnfrozenPkg',
+  auditor: 'Auditor',
+  sourceType: 'SourceType',
+  origNo: 'OrigNo',
+  drugForm: 'DrugForm',
+  productionBatch: 'ProductionBatch',
+  mfg: 'Mfg',
+  originCountry: 'OriginCountry',
+  unfrozenStatus: 'UnfrozenStatus',
+  lotCode: 'LotCode',
+  drugFormSpec: 'DrugFormSpec',
+  instoreDate: 'InstoreDate',
+  skuCode: 'SkuCode',
+
+  zoneId: 'ZoneCode',
+  lotId: 'LotCode',
+  ownerId: 'OwnerName',
+  createTimeFrom: 'createTime From',
+  createTimeTo: 'To',
+  auditTimeFrom: 'auditTime From',
+  auditTimeTo: 'To',
+
+  msg: {
+  }
+}
+export default invUnfrozenReport

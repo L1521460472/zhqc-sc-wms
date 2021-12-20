@@ -1,0 +1,40 @@
+// Please add the language resource
+const validityWarn = {
+  skuCategoryId: 'skuCategory',
+  inWhValidity: 'InWhValidity',
+  creator: 'Creator',
+  createTime: 'CreateTime',
+  warmValidityDay: 'WarmValidityDay',
+  remark: 'Remark',
+  validityDay: 'ValidityDay',
+  updateName: 'UpdateName',
+  updater: 'Updater',
+  optimistic: 'Optimistic',
+  outWhValidity: 'OutWhValidity',
+  updateTime: 'UpdateTime',
+  whId: 'WhId',
+  companyCode: 'CompanyCode',
+  id: 'Id',
+  createName: 'CreateName',
+  createTimeBegin: 'createTimeBegin',
+  createTimeEnd: 'To',
+  msg: {
+    skuCategoryId: 'Please select skuCategory',
+    inWhValidity: 'Please input the InWhValidity',
+    creator: 'Please input the Creator',
+    createTime: 'Please input the CreateTime',
+    warmValidityDay: 'Please input the WarmValidityDay',
+    remark: 'Please input the Remark',
+    validityDay: 'Please input the ValidityDay',
+    updateName: 'Please input the UpdateName',
+    updater: 'Please input the Updater',
+    optimistic: 'Please input the Optimistic',
+    outWhValidity: 'Please input the OutWhValidity',
+    updateTime: 'Please input the UpdateTime',
+    whId: 'Please input the WhId',
+    companyCode: 'Please input the CompanyCode',
+    id: 'Please input the Id',
+    createName: 'Please input the CreateName'
+  }
+}
+export default validityWarn

@@ -1,0 +1,46 @@
+// Please add the language resource
+const gspDestoryReport = {
+  mainUnit: 'MainUnit',
+  destroyMethod: 'DestroyMethod',
+  remark: 'Remark',
+  destroyAddr: 'DestroyAddr',
+  spec: 'Spec',
+  productBatch: 'ProductBatch',
+  productDate: 'ProductDate',
+  invaliDate: 'InvaliDate',
+  reportRowNo: 'ReportRowNo',
+  destroyTime: 'DestroyTime',
+  approvalNumber: 'ApprovalNumber',
+  rowNo: 'RowNo',
+  skuName: 'SkuName',
+  reportNo: 'ReportNo',
+  supplierName: 'SupplierName',
+  barcode: 'Barcode',
+  origSys: 'OrigSys',
+  creator: 'Creator',
+  ownerName: 'OwnerName',
+  batchNo: 'BatchNo',
+  createTime: 'CreateTime',
+  destroyQty: 'DestroyQty',
+  drugForm: 'DrugForm',
+  supervisorNo: 'SupervisorNo',
+  mfg: 'Mfg',
+  originCountry: 'OriginCountry',
+  badDestroyNo: 'BadDestroyNo',
+  drugFormSpec: 'DrugFormSpec',
+  skuCode: 'SkuCode',
+  invdate: 'Invdate',
+  status: 'Status',
+
+  ownerId: 'ownerName',
+  createTimeFrom: 'createTime From',
+  createTimeTo: 'createTime To',
+  auditTimeFrom: 'auditTime From',
+  auditTimeTo: 'auditTime To',
+  destroyTimeFrom: 'destroyTime From',
+  destroyTimeTo: 'destroyTime To',
+
+  msg: {
+  }
+}
+export default gspDestoryReport

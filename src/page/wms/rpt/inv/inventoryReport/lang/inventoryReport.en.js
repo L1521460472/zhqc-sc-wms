@@ -1,0 +1,48 @@
+// Please add the language resource
+const inventoryReport = {
+  mainUnit: 'MainUnit',
+  productionDate: 'ProductionDate',
+  remark: 'Remark',
+  inventoryStatus: 'InventoryStatus',
+  spec: 'Spec',
+  updater: 'Updater',
+  updateTime: 'UpdateTime',
+  invalidDate: 'InvalidDate',
+  approveNo: 'ApproveNo',
+  firstPdQty: 'FirstPdQty',
+  inventoryMethod: 'InventoryMethod',
+  secPdQty: 'SecPdQty',
+  skuName: 'SkuName',
+  supplierName: 'SupplierName',
+  barcode: 'Barcode',
+  planPdPkg: 'PlanPdPkg',
+  creator: 'Creator',
+  ownerName: 'OwnerName',
+  batchNo: 'BatchNo',
+  createTime: 'CreateTime',
+  lineNum: 'LineNum',
+  sourceType: 'SourceType',
+  origNo: 'OrigNo',
+  drugForm: 'DrugForm',
+  productionBatch: 'ProductionBatch',
+  mfg: 'Mfg',
+  originCountry: 'OriginCountry',
+  confirmDiffQty: 'ConfirmDiffQty',
+  planPdQty: 'PlanPdQty',
+  firstDiffQty: 'FirstDiffQty',
+  drugFormSpec: 'DrugFormSpec',
+  secDiffQty: 'SecDiffQty',
+  inventoryType: 'InventoryType',
+  confirmQty: 'ConfirmQty',
+  inventoryNo: 'InventoryNo',
+  instoreDate: 'InstoreDate',
+  skuCode: 'SkuCode',
+
+  ownerId: 'ownerName',
+  updateTimeFrom: 'inventoryTime From',
+  updateTimeTo: 'inventoryTime To',
+
+  msg: {
+  }
+}
+export default inventoryReport

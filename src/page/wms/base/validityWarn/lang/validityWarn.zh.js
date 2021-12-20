@@ -1,0 +1,40 @@
+// 请自行添加语言资源
+const validityWarn = {
+  skuCategoryId: '产品分类',
+  inWhValidity: '入库效期（天）',
+  creator: '创建人',
+  createTime: '创建时间',
+  warmValidityDay: '失效预警（天）',
+  remark: '备注',
+  validityDay: '有效期（天）',
+  updateName: '更新人名称',
+  updater: '更新人',
+  optimistic: '乐观锁#',
+  outWhValidity: '出库效期（天）',
+  updateTime: '更新时间',
+  whId: '仓库ID',
+  companyCode: '公司编号',
+  id: '主键id',
+  createName: '创建人名称',
+  createTimeBegin: '创建时间From',
+  createTimeEnd: 'To',
+  msg: {
+    skuCategoryId: '请选择产品分类',
+    inWhValidity: '请输入入库效期（天）',
+    creator: '请输入创建人',
+    createTime: '请输入创建时间',
+    warmValidityDay: '请输入失效预警（天）',
+    remark: '请输入备注',
+    validityDay: '请输入有效期（天）',
+    updateName: '请输入更新人名称',
+    updater: '请输入更新人',
+    optimistic: '请输入乐观锁#',
+    outWhValidity: '请输入出库效期（天）',
+    updateTime: '请输入更新时间',
+    whId: '请输入仓库ID',
+    companyCode: '请输入公司编号',
+    id: '请输入主键id',
+    createName: '请输入创建人名称'
+  }
+}
+export default validityWarn

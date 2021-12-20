@@ -1,0 +1,46 @@
+// 请自行添加语言资源
+const gspDestoryReport = {
+  mainUnit: '单位',
+  destroyMethod: '销毁方法',
+  remark: '备注',
+  destroyAddr: '销毁地点',
+  spec: '规格型号',
+  productBatch: '生产批号',
+  productDate: '生产日期',
+  invaliDate: '有效期至',
+  reportRowNo: '上报单号明细行号',
+  destroyTime: '销毁时间',
+  approvalNumber: '批准文号',
+  rowNo: '明细行号',
+  skuName: '产品名称',
+  reportNo: '上报单号',
+  supplierName: '供应商',
+  barcode: '产品条码',
+  origSys: '来源系统',
+  creator: '创建人',
+  ownerName: '货主名称',
+  batchNo: '批号',
+  createTime: '创建时间',
+  destroyQty: '销毁数量',
+  drugForm: '剂型',
+  supervisorNo: '销毁监督人编号',
+  mfg: '生产企业',
+  originCountry: '产地',
+  badDestroyNo: '不合格销毁单号',
+  drugFormSpec: '包装规格',
+  skuCode: '产品编码',
+  invdate: '入库日期',
+  status: '销毁状态',
+
+  ownerId: '货主名称',
+  createTimeFrom: '创建时间From',
+  createTimeTo: 'To',
+  auditTimeFrom: '审核时间From',
+  auditTimeTo: 'To',
+  destroyTimeFrom: '销毁时间From',
+  destroyTimeTo: 'To',
+
+  msg: {
+  }
+}
+export default gspDestoryReport

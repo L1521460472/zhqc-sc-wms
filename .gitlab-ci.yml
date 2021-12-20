@@ -1,0 +1,22 @@
+stages:
+  - build
+job1:
+  stage: build
+  only:
+    - dev
+  before_script:
+    - chmod +x ci/web_deploy_dev.sh
+  script:
+    - ci/web_deploy_dev.sh
+  tags:
+    - share-dev
+job2:
+  stage: build
+  only:
+    - test
+  before_script:
+    - chmod +x ci/web_deploy_test.sh
+  script:
+    - ci/web_deploy_test.sh
+  tags:
+    - share-dev

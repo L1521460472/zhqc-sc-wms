@@ -1,0 +1,38 @@
+// 请自行添加语言资源
+const maintainRecord = {
+  maintainDateFrom: '养护日期From',
+  maintainDateTo: 'To',
+  maintenanceType: '养护类型',
+  skuCategoryId: '产品分类',
+  certificateNo: '批准文号',
+  maintenanceTypeName: '养护类型',
+  proMaintainNo: '养护记录单号',
+  maintainDate: '养护日期',
+  maintainUserName: '养护人',
+  qualityStatusName: '质量状态',
+  maintainMeasureName: '养护措施',
+  maintainConclusionName: '养护结论',
+
+  skuCode: '产品编码',
+  barcode: '产品条码',
+  skuName: '产品名称',
+  tradeName: '商品名',
+  spec: '规格型号',
+  mainUnit: '单位',
+  perQty: '包装',
+  drugForm: '剂型',
+  mfgName: '生产企业',
+  originCountry: '产地',
+  approvalNumber: '批准文号',
+  brandName: '品牌',
+  tempControlName: '温控要求',
+  validityDay: '有效期',
+  batchNo: '批次号',
+  productionBatch: '生产批号',
+  productionDate: '生产日期',
+  instoreDate: '入库日期',
+  invalidDate: '有效期至',
+  sterileNo: '灭菌批号',
+  sterileInvaliDate: '灭菌日期'
+}
+export default maintainRecord

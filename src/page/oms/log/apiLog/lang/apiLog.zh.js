@@ -1,0 +1,42 @@
+// 请自行添加语言资源
+const apiLog = {
+  requestStatus: '请求状态',
+  requestType: '请求类型',
+  extendThree: '默认字段3',
+  remark: '备注',
+  extendFive: '默认字段5',
+  extendSeven: '默认字段7',
+  responseMsg: '出参',
+  extendOne: '默认字段1',
+  updater: '更新人',
+  optimistic: '乐观锁',
+  updateTime: '更新时间',
+  extendFour: '默认字段4',
+  companyCode: '公司编码',
+  id: '主键id',
+  creator: '创建人',
+  createTime: '创建时间',
+  extendTwo: '默认字段2',
+  requestUrl: '请求地址',
+  requestJson: '入参',
+  extendSix: '默认字段6',
+  whId: '仓库ID',
+  extendEight: '默认字段8',
+  extendTen: '默认字段10#',
+  extendNine: '默认字段9',
+  requestCode: '请求单号',
+  createTimeBegin: '开始时间From',
+  createTimeEnd: 'To',
+  msg: {
+    requestStatus: '请输入请求状态',
+    requestType: '请输入请求类型',
+    requestUrl: '请输入请求地址',
+    responseMsg: '请输入出参',
+    requestJson: '请输入入参',
+    whId: '请输入仓库ID',
+    companyCode: '请输入公司编码',
+    id: '请输入主键id',
+    requestCode: '请输入请求单号'
+  }
+}
+export default apiLog

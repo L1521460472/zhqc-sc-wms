@@ -1,0 +1,47 @@
+// Please add the language resource
+const invSoldReport = {
+  mainUnit: 'MainUnit',
+  approveNo: 'ApproveNo',
+  productionDate: 'ProductionDate',
+  recommZone: 'RecommZone',
+  operator: 'Operator',
+  spec: 'Spec',
+  downShelfType: 'DownShelfType',
+  invalidDate: 'InvalidDate',
+  skuName: 'SkuName',
+  planDownQty: 'PlanDownQty',
+  supplierName: 'SupplierName',
+  barcode: 'Barcode',
+  creator: 'Creator',
+  batchNo: 'BatchNo',
+  createTime: 'CreateTime',
+  zoneCode: 'ZoneCode',
+  origNo: 'OrigNo',
+  drugForm: 'DrugForm',
+  downShelfQty: 'DownShelfQty',
+  downShelfStatus: 'DownShelfStatus',
+  productionBatch: 'ProductionBatch',
+  mfg: 'Mfg',
+  originCountry: 'OriginCountry',
+  planDownPkg: 'PlanDownPkg',
+  operatorTime: 'OperatorTime',
+  drugFormSpec: 'DrugFormSpec',
+  recommLotCode: 'RecommLotCode',
+  downPkg: 'DownPkg',
+  instoreDate: 'InstoreDate',
+  skuCode: 'SkuCode',
+  downLotCode: 'DownLotCode',
+
+  zoneId: 'ZoneCode',
+  downLotId: 'DownLotCode',
+  recommLotId: 'RecommLot',
+  recommZoneId: 'RecommZone',
+  operatorTimeFrom: 'OperatorTime From',
+  operatorTimeTo: 'OperatorTime To',
+  createTimeFrom: 'CreateTime From',
+  createTimeTo: 'CreateTime To',
+
+  msg: {
+  }
+}
+export default invSoldReport

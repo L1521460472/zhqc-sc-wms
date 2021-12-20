@@ -1,0 +1,217 @@
+.login-wrap{
+  .el-input__inner{
+    padding: 0 45px;
+  }
+  .el-form-item--small .el-form-item__content, .el-form-item--small .el-form-item__label{
+    line-height: 0;
+  }
+}
+//////////////////////////
+//日期框
+//.vxe-input--panel.type--date, .vxe-input--panel.type--month, .vxe-input--panel.type--week, .vxe-input--panel.type--year {
+//  z-index: 9998 !important
+//}
+////选择框
+//.vxe-select--panel {
+//  z-index: 9997 !important
+//}
+.warehousing-left-cont .el-form-item__label {
+  line-height: 20px;
+  padding-bottom: 2px;
+}
+//
+.viewFlag .el-input__inner,
+.viewFlag .el-textarea__inner {
+  border: 0 !important;
+  pointer-events: none;
+}
+
+.viewFlag .el-input.is-disabled .el-input__inner {
+  background-color: #fff !important;
+  color: #606266 !important;
+}
+
+.viewFlag .el-input-number--small .el-input-number__decrease,
+.viewFlag .el-input-number--small .el-input-number__increase {
+  display: none;
+}
+
+.viewFlag .el-input.is-disabled .el-input__icon {
+  display: none;
+}
+.viewFlag .el-date-editor--date .el-input__icon{
+  display: none;
+}
+.viewFlag .link-age-dd .el-input__suffix{
+  display: none;
+}
+// 全局去除表格输入框叉叉
+//.vxe-table--body .el-select__caret.el-input__icon.el-icon-circle-close{
+//  display: none !important;
+//}
+//.vxe-table--body .el-select__caret.el-input__icon.el-icon-arrow-up{
+//  display: block !important;
+//}
+.viewFlag .el-textarea.is-disabled .el-textarea__inner{
+  background-color: #fff;
+  color: #606266;
+  resize:none
+}
+//////////////////////////
+.page-form {
+
+  .el-form-item--mini.el-form-item,
+  .el-form-item--small.el-form-item {
+    margin-bottom: 13px;
+  }
+  .xy-form-item{
+    width: 988px;
+    clear: both;
+    overflow: hidden;
+    margin: 0 !important;
+    margin-bottom: -16px !important;
+
+  }
+  .el-form-item {
+    display: inline-block;
+
+    .el-form-item__content {
+      &>div{
+        width: 209px;
+      }
+
+      .el-date-editor.el-input,
+      .el-date-editor.el-input__inner {
+        width: 209px;
+      }
+
+      .el-select .el-input {
+        width: 209px;
+      }
+    }
+  }
+}
+//////////////////
+.pageTopForm {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 15px;
+  .el-form-item--mini.el-form-item,
+  .el-form-item--small.el-form-item {
+    margin-bottom: 13px;
+  }
+
+  .el-form-item {
+    display: inline-block;
+
+    .el-form-item__content {
+      display: flex;
+
+      .collapsable-item {
+        display: inline;
+        color: #7d7d7d;
+        width: 56px !important;
+        margin-left: 15px;
+        display: inline-block;
+        border: 1px solid #eaeaea;
+        border-radius: 4px;
+        padding: 0 6px;
+        cursor: pointer;
+        white-space: nowrap;
+      }
+
+      &>div{
+        width: 209px;
+      }
+
+      .el-date-editor.el-input,
+      .el-date-editor.el-input__inner {
+        width: 209px;
+      }
+
+      .el-select .el-input {
+        width: 209px;
+      }
+    }
+  }
+}
+
+//
+.page-form.zz-nb-form{
+  .el-form-item:nth-child(1){
+    width: 100%;
+    .el-form-item__content {
+      display: flex;
+      &>div{
+        width: 100%;
+      }
+      .el-date-editor.el-input,
+      .el-date-editor.el-input__inner {
+        width: 100%;
+      }
+    }
+  }
+}
+
+.table-content{
+  .el-table{
+     .el-table__fixed-right{
+       .cell.el-tooltip{
+         width: auto !important;
+       }
+    }
+  }
+}
+
+.topFormBM{
+  .el-form-item--mini.el-form-item,
+  .el-form-item--small.el-form-item {
+    margin-bottom: 23px !important;
+  }
+}
+
+//
+.carry-order_from{
+  .el-form-item {
+    display: inline-block;
+
+    .el-form-item__content {
+      &>div{
+        width: 222px;
+      }
+
+      .el-date-editor.el-input,
+      .el-date-editor.el-input__inner {
+        width: 222px;
+      }
+
+      .el-select .el-input {
+        width: 222px;
+      }
+    }
+  }
+}
+
+
+//---修改全局表格样式
+.el-table {
+  color: #000000 !important;
+}
+.el-table thead {
+  color: #000000 !important;
+  font-weight: 500;
+  background-color: #e8e8e8 !important;
+}
+.el-table__header-wrapper .el-table__header thead th, .el-table th.is-leaf {
+  background-color: #e8e8e8 !important;
+  border-top: 1px solid #b7b7b7 !important;
+}
+.el-table td, .el-table th.is-leaf {
+  border-bottom: 1px solid #b7b7b7 !important;
+}
+.el-table--border td, .el-table--border th, .el-table__body-wrapper .el-table--border.is-scrolling-left~.el-table__fixed {
+  border-right: 1px solid #b7b7b7 !important;
+}
+.el-table tbody tr:hover>td {
+  background-color:#dadada!important
+}

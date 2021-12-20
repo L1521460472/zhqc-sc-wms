@@ -1,0 +1,38 @@
+// Please add the language resource
+const stockFlowRpt = {
+  mainUnit: 'MainUnit',
+  categoryName: 'CategoryName',
+  ownerId: 'OwnerId',
+  productionDate: 'ProductionDate',
+  toQty: 'ToQty',
+  spec: 'Spec',
+  operator: 'Operator',
+  zoneCode: 'ZoneCode',
+  zoneId: 'ZoneId',
+  invalidDate: 'InvalidDate',
+  lotId: 'LotId',
+  businessType: 'BusinessType',
+  skuName: 'SkuName',
+  supplierName: 'SupplierName',
+  barcode: 'Barcode',
+  skuCategoryId: 'SkuCategoryId',
+  toBadQty: 'ToBadQty',
+  stockChangeType: 'StockChangeType',
+  ownerName: 'OwnerName',
+  batchNo: 'BatchNo',
+  businessNo: 'BusinessNo',
+  skuId: 'SkuId',
+  drugForm: 'DrugForm',
+  productionBatch: 'ProductionBatch',
+  originCountry: 'OriginCountry',
+  mfgName: 'MfgName',
+  lotCode: 'LotCode',
+  drugFormSpec: 'DrugFormSpec',
+  operatTime: 'OperatTime',
+  instoreDate: 'InstoreDate',
+  skuCode: 'SkuCode',
+  supplierId: 'SupplierId',
+  msg: {
+  }
+}
+export default stockFlowRpt

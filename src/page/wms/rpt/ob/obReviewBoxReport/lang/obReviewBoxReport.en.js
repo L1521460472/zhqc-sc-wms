@@ -1,0 +1,48 @@
+// Please add the language resource
+const obReviewBoxReport = {
+  mainUnit: 'MainUnit',
+  reviewPersonTwo: 'ReviewPersonTwo',
+  partnerName: 'PartnerName',
+  checkPlatformName: 'CheckPlatformName',
+  productionDate: 'ProductionDate',
+  reviewedQty: 'ReviewedQty',
+  soNo: 'SoNo',
+  spec: 'Spec',
+  updateTime: 'UpdateTime',
+  invalidDate: 'InvalidDate',
+  soQty: 'SoQty',
+  approvalNumber: 'ApprovalNumber',
+  isCrossDocking: 'IsCrossDocking',
+  storeName: 'StoreName',
+  rowNo: 'RowNo',
+  skuName: 'SkuName',
+  supplierName: 'SupplierName',
+  barcode: 'Barcode',
+  ownerName: 'OwnerName',
+  batchNo: 'BatchNo',
+  createTime: 'CreateTime',
+  transOrderNo: 'TransOrderNo',
+  soStatus: 'SoStatus',
+  reviewPersonOne: 'ReviewPersonOne',
+  drugForm: 'DrugForm',
+  productionBatch: 'ProductionBatch',
+  mfg: 'Mfg',
+  originCountry: 'OriginCountry',
+  drugFormSpec: 'DrugFormSpec',
+  soType: 'SoType',
+  boxNo: 'BoxNo',
+  waitReviewQty: 'WaitReviewQty',
+  customerName: 'CustomerName',
+  instoreDate: 'InstoreDate',
+  skuCode: 'SkuCode',
+
+  ownerId: 'OwnerName',
+  customerId: 'CustomerName',
+  partnerId: 'partnerName',
+  supplierId: 'SupplierName',
+  mfgId: 'Mfg',
+
+  msg: {
+  }
+}
+export default obReviewBoxReport

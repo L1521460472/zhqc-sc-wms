@@ -1,0 +1,48 @@
+// Please add the language resource
+const maintainProReport = {
+  mainUnit: 'MainUnit',
+  maintainMeasure: 'MaintainMeasure',
+  productionDate: 'ProductionDate',
+  remark: 'Remark',
+  auditUser: 'AuditUser',
+  spec: 'Spec',
+  zoneCode: 'ZoneCode',
+  breedNum: 'BreedNum',
+  auditTime: 'AuditTime',
+  qualityStatus: 'QualityStatus',
+  invalidDate: 'InvalidDate',
+  approvalNumber: 'ApprovalNumber',
+  skuName: 'SkuName',
+  supplierName: 'SupplierName',
+  barcode: 'Barcode',
+  creator: 'Creator',
+  ownerName: 'OwnerName',
+  batchNo: 'BatchNo',
+  createTime: 'CreateTime',
+  drugForm: 'DrugForm',
+  productionBatch: 'ProductionBatch',
+  originCountry: 'OriginCountry',
+  maintainType: 'MaintainType',
+  maintainConclusion: 'MaintainConclusion',
+  maintainDate: 'MaintainDate',
+  lotCode: 'LotCode',
+  qty: 'Qty',
+  drugFormSpec: 'DrugFormSpec',
+  proMaintainNo: 'ProMaintainNo',
+  instoreDate: 'InstoreDate',
+  skuCode: 'SkuCode',
+
+  createTimeFrom: 'createTime From',
+  createTimeTo: 'createTime To',
+  auditTimeFrom: 'auditTime From',
+  auditTimeTo: 'auditTime To',
+  maintainDateFrom: 'maintainDate From',
+  maintainDateTo: 'maintainDate To',
+  ownerId: 'ownerName',
+  zoneId: 'zoneCode',
+  lotId: 'lotCode',
+
+  msg: {
+  }
+}
+export default maintainProReport
